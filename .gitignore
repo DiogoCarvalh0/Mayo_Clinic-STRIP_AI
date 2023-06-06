@@ -1,1 +1,4 @@
-./data/*
+data/
+models/
+runs/
+src/__pycache__/
